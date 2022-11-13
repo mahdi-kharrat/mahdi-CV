@@ -1,0 +1,32 @@
+body{
+    font-family: 'open sans',sans-serif;
+}
+.image{
+    text-align: center;
+}
+.left{
+    float: left;
+    background-color: rgb(132, 132, 132);
+    min-height: 400px;
+    min-width: 455px;
+}
+
+.right{
+    float:right;
+    background-color: rgb(205, 205, 205);
+    min-height: 400px;
+    min-width: 1000px;
+}
+
+.title1{
+    text-align: center;
+    color:  rgb(47, 47, 141);
+}
+
+.title2{
+    text-align: center;
+    color: whitesmoke;
+}
+.title3{
+    color:rgb(82, 12, 148);
+}
